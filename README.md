@@ -38,6 +38,7 @@ The code (in separate file) does the following:
 3. Measures distance using the HC-SR04 ultrasonic sensor.
 4. Turns on the LED when an object is detected within a threshold distance.
 5. Prints angle and distance data to Serial Monitor for real-time monitoring.
+6. 
 
 **Concepts Used:**
 - PWM control for servo
